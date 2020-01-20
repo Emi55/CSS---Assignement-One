@@ -1,0 +1,25 @@
+
+    body  {
+        background: linear-gradient(to top, rgb(188, 230, 125) 0%, lightblue 100%);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+        background-image: url(../image/"coconut.jpg")
+    }
+    h1,h2,h3{
+       color:#ffffff;
+    }
+
+   h1,h2{
+       text-align: center;  
+   }
+
+   ul{
+       column-count: 3;
+       margin-right: 0vw;
+   }
+   h3 + id + ul{
+       text-align: center;
+   }
+   section {
+       text-align: center;
+   }
